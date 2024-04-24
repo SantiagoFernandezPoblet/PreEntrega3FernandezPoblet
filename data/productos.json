@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "item": "Vela",
+        "precio": "4500",
+        "img": "../img/VelaJazmin.jpg",
+        "aroma": "Jazmín",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "item": "Body splash",
+        "precio": "5000",
+        "img": "../img/BodySplashVainillaCaramelo.jpg",
+        "aroma": "Vainilla y Caramelo",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "item": "Home spray",
+        "precio": "4000",
+        "img": "../img/HomeSprayMariaCher.jpg",
+        "aroma": "María Cher",
+        "cantidad": 1
+    }
+]
